@@ -10,7 +10,7 @@ namespace DesignPatterns.Core
         /// <summary>
         /// As its not turbo charged, passing false to base class
         /// </summary>
-        /// <param name="size"></param>
+        /// <param name="size">size</param>
         public StandardEngine(int size) : base(size, false)
         {
         }
