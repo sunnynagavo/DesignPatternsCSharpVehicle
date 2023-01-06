@@ -25,5 +25,14 @@ Console.WriteLine(van);
 Console.WriteLine("____________________________________________________________________________________");
 
 
-Console.ReadLine();
+Console.WriteLine("Inorder to improvise, you can add one more level abstraction by using category {car,van} enum to create factory and the vehicle.");
+Console.WriteLine("____________________________________________________________________________________");
+IVehicle sporty = VehicleFactory.Make(VehicleFactory.Category.Car, VehicleFactory.DrivingStyle.Powerful, VehicleColor.Black);
+Console.WriteLine(sporty);
+Console.WriteLine("____________________________________________________________________________________");
+IVehicle pickupVan = VehicleFactory.Make(VehicleFactory.Category.van, VehicleFactory.DrivingStyle.MidRange, VehicleColor.Silver);
+Console.WriteLine(pickupVan);
+Console.WriteLine("____________________________________________________________________________________");
+
+
 
