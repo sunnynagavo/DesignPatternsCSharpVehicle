@@ -1,0 +1,12 @@
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\bin\Debug\net7.0\DesignPatterns.Core.deps.json
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\bin\Debug\net7.0\DesignPatterns.Core.dll
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\bin\Debug\net7.0\DesignPatterns.Core.pdb
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.csproj.AssemblyReference.cache
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.AssemblyInfoInputs.cache
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.AssemblyInfo.cs
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.csproj.CoreCompileInputs.cache
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.dll
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\refint\DesignPatterns.Core.dll
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\DesignPatterns.Core.pdb
+D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\obj\Debug\net7.0\ref\DesignPatterns.Core.dll
