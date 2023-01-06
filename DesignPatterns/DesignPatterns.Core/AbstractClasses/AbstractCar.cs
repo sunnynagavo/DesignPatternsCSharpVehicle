@@ -3,7 +3,7 @@
 namespace DesignPatterns.Core.AbstractClasses
 {
     /// <summary>
-    /// Abstract car implementing Abstract Vehicle
+    /// Abstract car implementing Abstract Vehicle class
     /// </summary>
     public abstract class AbstractCar : AbstractVehicle
     {
