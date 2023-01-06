@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns.Core
+﻿using DesignPatterns.Core.Interfaces;
+
+namespace DesignPatterns.Core.AbstractClasses
 {
     /// <summary>
     /// Abstract class implementing IEngine
@@ -14,12 +16,12 @@
             this.turbo = turbo;
         }
 
-        public virtual int Size { get => size;}
+        public virtual int Size { get => size; }
         public virtual bool Turbo { get => turbo; }
 
         public override string ToString()
         {
-            return this.GetType().Name + $"({size})";
+            return GetType().Name + $"({size})";
         }
     }
 }
