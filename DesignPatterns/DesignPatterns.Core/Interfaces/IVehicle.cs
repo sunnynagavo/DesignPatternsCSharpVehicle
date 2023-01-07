@@ -3,7 +3,7 @@
     /// <summary>
     /// Interface for vehicle object
     /// </summary>
-    public interface IVehicle
+    public interface IVehicle : ICloneable // adding this for protoype design pattern
     {
         IEngine Engine { get; }
         VehicleColor Colour { get; }

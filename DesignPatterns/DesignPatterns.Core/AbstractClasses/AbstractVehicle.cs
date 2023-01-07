@@ -32,6 +32,15 @@ namespace DesignPatterns.Core.AbstractClasses
         public virtual IEngine Engine { get { return engine; } }
         public virtual VehicleColor Colour { get { return colour; } }
 
+        /// <summary>
+        /// used by prototype pattern to perform cloning of the receiving object.
+        /// </summary>
+        /// <returns></returns>
+        public object Clone()
+        {
+            return this.MemberwiseClone();
+        }
+
         public virtual void Paint(VehicleColor color)
         {
             this.colour = color;
