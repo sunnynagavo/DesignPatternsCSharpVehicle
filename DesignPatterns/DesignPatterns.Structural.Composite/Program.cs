@@ -4,3 +4,4 @@ Console.WriteLine("Bridge: Decouple an abstraction from its implementation so th
 Console.WriteLine("____________________________________________________________________________________");
 Console.WriteLine("\n");
 
+Console.WriteLine("Test");
