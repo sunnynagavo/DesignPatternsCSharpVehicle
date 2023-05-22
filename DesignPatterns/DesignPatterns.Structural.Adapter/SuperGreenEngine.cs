@@ -6,8 +6,8 @@
     /// </summary>
     public class SuperGreenEngine
     {
-        private int engineSize;
-       
+        private readonly int engineSize;
+
         public SuperGreenEngine(int engineSize)
         {
             this.engineSize = engineSize;
@@ -15,9 +15,6 @@
 
         public int EngineSize { get { return engineSize; } }
 
-        public override string ToString()
-        {
-            return $"SUPER ENGINE {engineSize}";
-        }
+        public override string ToString() => $"SUPER ENGINE {engineSize}";
     }
 }

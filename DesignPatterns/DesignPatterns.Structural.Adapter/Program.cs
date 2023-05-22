@@ -4,7 +4,7 @@ using DesignPatterns.Core.Interfaces;
 using DesignPatterns.Structural.Adapter;
 
 Console.WriteLine("____________________________________________________________________________________");
-Console.WriteLine("Adaptor: Convert the interface of a class into another interface clients expect" +
+Console.WriteLine("Adaptor: Convert the interface of a class into another interface clients expects." +
     "Adapter lets classes work together that couldnt otherwise because of incompatible interfaces");
 Console.WriteLine("____________________________________________________________________________________");
 Console.WriteLine("\n");
