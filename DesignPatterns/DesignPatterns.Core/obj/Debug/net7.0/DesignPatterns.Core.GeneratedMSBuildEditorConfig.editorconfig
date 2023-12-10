@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DesignPatterns.Core
 build_property.ProjectDir = D:\MyLearnings\DesignPatternsCSharpVehicle\DesignPatterns\DesignPatterns.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
